@@ -81,7 +81,7 @@ http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVShop" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-#EXTINF:-1 tvg-id="'UNTV" tvg-name="UNTV" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="(no group)",UNTV
+#EXTINF:-1 tvg-id="'UNTV" tvg-name="UNTV" tvg-logo="http://tiny.cc/so8ytz" group-title="(no group)",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
 http://203.154.243.89:11205/
