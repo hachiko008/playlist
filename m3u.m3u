@@ -9,6 +9,8 @@ http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Business" tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News",Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1,Cartoon Network (West)
+http://gooserace.xyz:2052/donna/donna123/1192931
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBN" tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
