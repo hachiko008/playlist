@@ -15,8 +15,6 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Business" tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News",Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="(no group)",Boomerang
-http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBN" tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
@@ -147,8 +145,8 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-id="'UNTV" tvg-name="UNTV" tvg-logo="http://tiny.cc/so8ytz" group-title="(no group)",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
-http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Bros. HD" tvg-logo="http://tiny.cc/axaytz" group-title="(no group)",Boomerang
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="https://i.ibb.co/1LpvvxG/d-J-t-Lj-Xq-BKn1o6q-IDPsd-Qcr-GIy-JN-Mp7d-M1j-Ba-Y6-QDiju-V-Zac.png" group-title="Entertainment",Zee TV HD
