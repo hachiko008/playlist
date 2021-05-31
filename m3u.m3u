@@ -33,7 +33,7 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-name="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="" group-title="(no group)",CNN PH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="http://tiny.cc/hxaytz" group-title="(no group)",CNN PH
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/104.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -61,9 +61,9 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="Entertainment",FOX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="(no group)",FOX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="(no group)",FOX2
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox 3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="(no group)",Fox2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox 3 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="(no group)",Fox3
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -81,7 +81,7 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallypop" tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="(no group)",HBO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="http://tiny.cc/jxaytz" group-title="(no group)",HBO
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hillsong Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" group-title="Religious",Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
@@ -107,13 +107,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo" tvg-logo="http://tiny.cc/bf9ytz" group-title="(no group)",Nat Geo
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="(no group)",NBA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="http://tiny.cc/oxaytz" group-title="(no group)",NBA TV
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/1024px-NHK_logo.svg.png" group-title="(no group)",NHK
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/133.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK World Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickolodeon" tvg-logo="http://tiny.cc/1f9ytz" group-title="(no group)",Nickolodeon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="http://tiny.cc/sxaytz" group-title="(no group)",Nickelodeon
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Ph" tvg-logo="http://tiny.cc/be9ytz" group-title="(no group)",One Ph
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/115.m3u8
@@ -145,7 +145,7 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-id="'UNTV" tvg-name="UNTV" tvg-logo="http://tiny.cc/so8ytz" group-title="(no group)",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Bros. HD" tvg-logo="http://tiny.cc/axaytz" group-title="(no group)",Boomerang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Bros. HD" tvg-logo="http://tiny.cc/fxaytz" group-title="(no group)",Warner Bros. HD
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
@@ -153,3 +153,5 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee World" tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" group-title="Entertainment",Zee World
 https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax" tvg-logo="" group-title="(no group)",Animax
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
