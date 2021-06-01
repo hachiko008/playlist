@@ -3,7 +3,7 @@
 https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News Live" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Live/video/4974899/a020b8ea31d4cf445986a00224a40640/284x160-Q75_a020b8ea31d4cf445986a00224a40640.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABS CBN" tvg-logo="http://tiny.cc/wd9ytz" group-title="(no group)",ABS CBN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABS CBN" tvg-logo="http://tiny.cc/wd9ytz" group-title="Local Channel",ABS CBN
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANC" tvg-logo="http://tiny.cc/6e9ytz" group-title="(no group)",ANC
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
@@ -11,10 +11,12 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
 http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN" tvg-logo="http://tiny.cc/9f9ytz" group-title="(no group)",AXN
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
-#EXTINF:-1 tvg-id="BeamTV.ph" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="(no group)",Beam TV
+#EXTINF:-1 tvg-id="BeamTV.ph" tvg-name="Beam TV" tvg-logo="https://i.imgur.com/PwUFKik.jpg" group-title="Local Channel",Beam TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Business" tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News",Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network tvg-logo="http://tiny.cc/kjcytz" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBN" tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
@@ -45,7 +47,7 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Da Vinci" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local Channel",DepEd TV
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV 2" tvg-logo="http://tiny.cc/se9ytz" group-title="(no group)",Dep Ed
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
@@ -75,7 +77,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GCTV" tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA 7" tvg-logo="http://tiny.cc/yd9ytz" group-title="(no group)",GMA 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA 7" tvg-logo="http://tiny.cc/yd9ytz" group-title="Local Channel",GMA 7
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="http://tiny.cc/4e9ytz" group-title="(no group)",GTV
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
@@ -85,7 +87,7 @@ https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hillsong Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" group-title="Religious",Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC" tvg-logo="http://tiny.cc/xe9ytz" group-title="(no group)",IBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBC" tvg-logo="http://tiny.cc/xe9ytz" group-title="Local Channel",IBC
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Island Living Channel" tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Local",Island Living Channel
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
@@ -115,11 +117,11 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/133.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="http://tiny.cc/sxaytz" group-title="(no group)",Nickelodeon
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Ph" tvg-logo="http://tiny.cc/be9ytz" group-title="(no group)",One Ph
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Ph" tvg-logo="http://tiny.cc/be9ytz" group-title="Local Channel",One Ph
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/115.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="(no group)",One Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="Local Channel",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports2" tvg-logo="http://tiny.cc/ee9ytz" group-title="(no group)",One Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports2" tvg-logo="http://tiny.cc/ee9ytz" group-title="Local Channel",One Sports 2
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBA Rush" tvg-logo="http://tiny.cc/me9ytz" group-title="(no group)",PBA Rush
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
@@ -129,7 +131,7 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop TV" tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="Entertainment",Pop TV
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="http://tiny.cc/7e9ytz" group-title="(no group)",PTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="http://tiny.cc/7e9ytz" group-title="Local Channel",PTV
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -137,13 +139,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Solar Sports" tvg-logo="http://tiny.cc/ke9ytz" group-title="(no group)",Solar Sports
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="http://tiny.cc/5e9ytz" group-title="(no group)",TV5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="http://tiny.cc/5e9ytz" group-title="Local Channel",TV5
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5Monde Style" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/2000?cb=20191207000751" group-title="Lifestyle",TV5Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVShop" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVShop" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local Channel",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-#EXTINF:-1 tvg-id="'UNTV" tvg-name="UNTV" tvg-logo="http://tiny.cc/so8ytz" group-title="(no group)",UNTV
+#EXTINF:-1 tvg-id="'UNTV" tvg-name="UNTV" tvg-logo="http://tiny.cc/so8ytz" group-title="Local Channel",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner Bros. HD" tvg-logo="http://tiny.cc/fxaytz" group-title="(no group)",Warner Bros. HD
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8
