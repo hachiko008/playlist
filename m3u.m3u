@@ -75,7 +75,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GCTV" tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA 7. [Kapuso]" tvg-logo="http://tiny.cc/yd9ytz" group-title="(no group)",GMA 7. [Kapuso]
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GMA 7" tvg-logo="http://tiny.cc/yd9ytz" group-title="(no group)",GMA 7
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="http://tiny.cc/4e9ytz" group-title="(no group)",GTV
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
